@@ -1,37 +1,34 @@
-Division 1.0
+Division 2.0
 ------------
 
 This program calculates a division between two numbers.
 
-The result of the calculation has to be investigated with a debugger.
+The program got equipped with a full user interaction, so it is not necessary anymore to use a debugger to operate with it.
 
+Just invoke the program.
 
-1  double a,b,c;
-2
-3  main()
-4  {
-5    c=a/b;
-6  }
+The program first asks you for the number to divide showing an input prompt:
 
+  in :
+  
+Then the program asks for the number used to divide the previous one in the same way.
 
-Place breakpoints at line 4 and 6.
+After that the calculation will be done and the program shows the result on the screen.
 
-Start the program execution.
-
-Now enter the number that has to be divided into variable a.
-Enter the number to divide the previous number into variable b.
-
-Now continue the program execution to the next breakpoint.
-
-Examine the result in variable c.
-
-Continue the program execution to finish the program.
+  out : ....
+  
 
 
 
 
 Version history:
 ----------------
+
+Version 2.0:
+
+Implementation of full user interaction to make the program operatable without the usage of a debugger.
+
+
 
 Version 1.0:
 
