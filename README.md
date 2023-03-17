@@ -3,12 +3,17 @@ Program to divide a number by another one
 
 See readme.txt for details.
 
-Code extent: max. 82 bytes
+Code extent: max. 128 bytes
 
 -----------
 
 Version history:
 ----------------
+
+Version 3.0:
+
+Implementation of data entry by giving arguments at invocation.
+
 
 Version 2.0:
 
